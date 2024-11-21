@@ -11,7 +11,7 @@ import javax.swing.JMenu;
 import javax.swing.JMenuBar;
 import solitaire.card.Card;
 
-public class Solitaire extends JDialog {
+final public class Solitaire extends JDialog {
     final public static JButton AUTO = new JButton("AUTO");
     
     public static enum GameType {
