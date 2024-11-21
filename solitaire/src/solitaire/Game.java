@@ -21,7 +21,7 @@ import solitaire.pile.Foundation;
 import solitaire.pile.Pile;
 import solitaire.pile.Tableau;
 
-public class Game extends JLabel implements MouseListener, Runnable {
+final public class Game extends JLabel implements MouseListener, Runnable {
     final private static int INSET = CARD_HEIGHT / 10;
     final private static int GAP = 1;
     final private static int STEP = CARD_WIDTH / 3;
