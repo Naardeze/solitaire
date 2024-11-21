@@ -1,6 +1,6 @@
 # Solitaire
 Simple Java Swing Solitaire Card Game
 
-1 or 3 card game.
+1 or 3 card game
 
-(auto) finished -> display time.
+(auto) finished -> display time
